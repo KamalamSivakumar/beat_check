@@ -20,5 +20,4 @@ Classes: ['N': 0, 'S': 1, 'V': 2, 'F': 3, 'Q': 4]
 - Used a custom CNN model based on the paper. 
 
 #### Results:
-- Accuracy: 97% from the CNN.
-- Accuracy: 98% from the Random Forest Classifier.
+The CNN showed a better performance for a maximum number of trial runs.
